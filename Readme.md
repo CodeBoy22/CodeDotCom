@@ -1,6 +1,6 @@
 # CODE DOT COM
 
-## Techstack included will be:
+## Techstack Used:
 - HTML
 - CSS
 - JavaScript
